@@ -7,6 +7,11 @@
 
 ![markdown](https://www.mdeditor.tw/images/logos/markdown.png "markdown")
 ## Pchome 版本更新紀錄
+
+### V1.9 --20200227
+- 加入開啟自動檢查更新功能
+- 更新自動化
+
 ### V1.8 --20200226
 - 修正售完庫存會跳掉的BUG
 - 加入新的PRO功能::定期巡邏商品
