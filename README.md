@@ -2,10 +2,8 @@
 
 **此專案為程式自動更新的網址依據**
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXzs_AHXRrm9L8T256YTuosA_F7H1CXZHxQ&usqp=CAU" width="100" height="100" /> <img src="http://www.edamall.com.tw/UploadFile/MALL/BRAND/BIG20190802161531.jpg" width="200" height="100" /> <img src="https://image.winudf.com/v2/image1/Y29tLm5pbmV5aS5zaG9wLnMwMzIwMTRfaWNvbl8xNTgxMjQ0MTUyXzAyNA/icon.png?w=170&fakeurl=1" width="100" height="100" /> <img src="https://m.momoshop.com.tw/img/message.png?t=1605688801616" width="100" height="100" />
 
-
-
-![markdown](https://www.mdeditor.tw/images/logos/markdown.png "markdown")
 ## Pchome 版本更新紀錄
 
 ### V1.9 --20200227
